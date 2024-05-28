@@ -1,3 +1,5 @@
+### Hey, I am Daniel
+
 - 👋 Hi, I’m @dnzambuli
 - 👀 I’m interested in data science
 - 🌱 I’m currently persuing a Bsc in Data Science and Analytics
