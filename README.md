@@ -1,6 +1,8 @@
 ### Hey, I am Daniel 👋😊
 ***
+![Terry Vlisidis]("https://unsplash.com/@vlisidis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash")
 ___
+
 
 - 👋 Hi, I’m @dnzambuli
 - 👀 I’m interested in data science
