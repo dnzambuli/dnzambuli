@@ -1,6 +1,6 @@
 ### Hey, I am Daniel 👋😊
 ***
-![Terry Vlisidis]("bulb.jpg")
+![Terry Vlisidis]("https://github.com/dnzambuli/dnzambuli/blob/3fbb36b5233148f09417d3b6c59ba78207344203/bulb.jpg")
 ___
 
 
