@@ -2,6 +2,8 @@
 ***
 ![Terry Vlisidis]("https://github.com/dnzambuli/dnzambuli/blob/3fbb36b5233148f09417d3b6c59ba78207344203/bulb.jpg")
 ___
+Hello and welcome to my GitHub profile! I'm Dnzambuli, a Student based in Nairobi with a passion for web development, data science, AI/ML. I have 3 years of experience specializing in Data science and analytics, and I'm always eager to collaborate on projects that are at the intersection of Machine Learning and Security. Here, you'll find repositories showcasing my work in Python, R, Go, JavaScript, Java, C++ all driven by my commitment to Learning how to problem solve through data. Feel free to reach out if you're interested in collaborating or if you have questions about my work!
+***
 
 
 - 👋 Hi, I’m @dnzambuli
