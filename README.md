@@ -1,4 +1,4 @@
-## Hey, I am Daniel 👋😊
+## Hey, I am Dnzambuli 👋😊
 ***
 ![Terry Vlisidis](bulb.jpg)
 ___
