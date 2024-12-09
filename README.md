@@ -16,3 +16,7 @@ Hello and welcome to my GitHub profile! I'm Dnzambuli, a Student based in Nairob
 dnzambuli/dnzambuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# MY STATS
+[![Dnzambuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnzambuli)](https://github.com/dnzambuli/github-readme-stats)
+
